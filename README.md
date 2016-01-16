@@ -3,7 +3,7 @@ React Github Profile Viewer
 
 By Micah Courey, 13-Jan-2016
 
-A React component that uses the Github API to display users profile info.
+A React component that uses the Github API to search and display users profile info.
 
 Technologies Used
 ----------
